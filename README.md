@@ -1,16 +1,45 @@
-### Hi there 👋
+# Hey there, I'm Ollie 👋
 
-<!--
-**oliver-weare/oliver-weare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Software Developer Apprentice | 📅 Coding Since 2022 | 🛠️ Data Engineering Enthusiast
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a passionate software developer who embarked on this coding journey in 2022. I'm currently part of a dynamic data engineering team, where I'm learning and contributing to the exciting world of data processing and analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🌱 Recently graduated from a coding bootcamp at Makers, specializing in full-stack development.
+- 🔭 I'm constantly exploring new technologies and refining my skills to create efficient and innovative solutions.
+- 📚 Python is my primary language, but I'm also well-versed in JavaScript and its various libraries.
+- 🌟 I enjoy collaborating on open-source projects and contributing to the developer community.
+
+## 🛠️ Tech Stack
+
+- **Languages:** Python, JavaScript
+- **Frameworks & Tools:** Flask, Django, React,
+- **Database:** postgres, mongoDB
+
+## 📚 Projects & Contributions
+
+- 🚀 Some of my notable projects:
+  - [DevDuel](https://github.com/Saamiya96/frontend-devDuel): Frontend for a multiplayer top trumps.
+ 
+## 🌐 Let's Connect
+
+- 🔗 LinkedIn: [LinkedIn link](https://www.linkedin.com/in/oliver-weare-7b1b45283/)
+- 📫 Email me: [oliver_weare@protonmail.com](mailto:oliver_weare@protonmail.com)
+
+## 🎉 Fun Facts
+
+- 🎹 I dabble with synthesisers.
+- 🎮 I'm an avid gamer and game design enthusiast.
+
+## 📈 GitHub Stats
+
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/oliver-weare)
+
+## 🎯 Goals
+
+- 🌟 Learning anything I can.
+
+## 📝 License
+
+This README is licensed under the [MIT License](LICENSE).
