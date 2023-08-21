@@ -27,11 +27,6 @@ Welcome to my GitHub profile! I'm a passionate software developer who embarked o
 - 🔗 LinkedIn: [LinkedIn link](https://www.linkedin.com/in/oliver-weare-7b1b45283/)
 - 📫 Email me: [oliver_weare@protonmail.com](mailto:oliver_weare@protonmail.com)
 
-## 📈 GitHub Stats
-
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=oliver-weare&show_icons=true&theme=radical)](https://github.com/oliver-weare)
-
-
 ## 🎉 Fun Facts
 
 - 🎹 I dabble with synthesisers.
