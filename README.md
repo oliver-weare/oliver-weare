@@ -36,7 +36,6 @@ Welcome to my GitHub profile! I'm a passionate software developer who embarked o
 
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=oliver-weare&show_icons=true&theme=radical)](https://github.com/oliver-weare)
 
-
 ## 🎯 Goals
 
 - 🌟 Learning anything I can.
