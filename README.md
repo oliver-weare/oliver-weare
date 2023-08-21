@@ -32,11 +32,6 @@ Welcome to my GitHub profile! I'm a passionate software developer who embarked o
 - 🎹 I dabble with synthesisers.
 - 🎮 I'm an avid gamer and game design enthusiast.
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://img.shields.io/github/followers/oliver-weare?label=Followers&style=social)
-![Your GitHub Stats](https://img.shields.io/github/stars/oliver-weare?label=Stars&style=social)
-
 ## 🎯 Goals
 
 - 🌟 Learning anything I can.
