@@ -5,4 +5,4 @@
 🛠 **Currently Working On**: Data Engineering
 
 ### 🚶 Experience Timeline 🚶
-🛠️ **2 months on**: Data Engineering | July - Sept 23
+**2 months on**: Data Engineering | July - Sept 23
