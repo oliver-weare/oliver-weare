@@ -5,5 +5,5 @@
 🛠 **Currently Working On**: Backend Development
 
 ### 🚶 Experience Timeline 🚶
-**3 months on**: Data Engineering | July - Sept 23 \
+**4 months on**: Data Engineering | July - Oct 23 \
 **3 months on**: Frontend Development | Oct 23 - Dec 24
