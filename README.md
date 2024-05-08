@@ -1,1 +1,2 @@
-# Hi, ✋ I’m Ollie, Jnr. Software Developer
+# Hi, ✋ I’m Ollie
+A junior software developer
