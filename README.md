@@ -1,2 +1,2 @@
 # Hi ✋ I’m Ollie
-Junior software developer
+Junior full-stack software developer
