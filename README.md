@@ -1,5 +1,5 @@
 # Hi ✋ I’m Ollie
-Junior data engineer @ Department for Business and Trade
+Junior data engineer
 
 ## Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
